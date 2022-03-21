@@ -1,2 +1,2 @@
 # CCC-Assignment1
-Workplace for zihao guo
+CCC assignment1 workplace
