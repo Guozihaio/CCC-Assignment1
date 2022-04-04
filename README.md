@@ -1,7 +1,7 @@
 # COMP90024 -Cluster and Cloud Computing Assignment 1 – Multicultural City 
 # Code created by   
-<b> Zihao Guo 931278 <\b>  
-<b> Yan Yan 1320588 <\b>
+<b> Zihao Guo 931278  
+<b> Yan Yan 1320588 
 
 # Project descprition
 Assignment is to search the large Twitter data set (bigTwitter.json) and using the language used
