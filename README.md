@@ -33,14 +33,14 @@ be run once to search the bigTwitter.json file on each of the following resource
 
 To run the program on Spartan, Three slurm files configured with three different resources, which are 1node1core, 1node8cores, and 2nodes8cores. 
 Run the command: 
-                                    sbatch 1Node1Cores.slurm 
+<pre>                 sbatch 1Node1Cores.slurm 
 
         			  sbatch 1Node8Cores.slurm 
                 
-       			  sbatch 2Node8Cores.slurm
+       			  sbatch 2Node8Cores.slurm </pre>
               
 will submit a new job to the Slurm queue on Spartan. A job ID will be given after that. To track the progress of the job, run squeue -u username to check the status of the work. When the status shows finished, a file named slurm-jobID.out will be in the directory. Run more slurm-jobID.out to check the performance of each job.
 
 Or
 
-<b>Run </b> mpiexec -n ;&nbsp;#num of cores;&nbsp; python3;&nbsp; newmain.py;&nbsp; sydGrid.json;&nbsp; #anyTwitter.json;&nbsp; #batch_size;&nbsp;
+<b>Run </b> mpiexec -n &nbsp#num of cores&nbsp; python3&nbsp; newmain.py;&nbsp sydGrid.json&nbsp; #anyTwitter.json;&nbsp #batch_size;&nbsp;
