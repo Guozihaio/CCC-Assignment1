@@ -46,4 +46,4 @@ will submit a new job to the Slurm queue on Spartan. A job ID will be given afte
 Or
 
 <b>Run </b> 
-<pre>mpiexec -n &nbsp#num of cores&nbsp; python3&nbsp; newmain.py;&nbsp sydGrid.json&nbsp; #anyTwitter.json;&nbsp #batch_size;&nbsp;</pre> on your local computer
+<pre>mpiexec -n &nbsp#num of cores&nbsp; python3&nbsp; newmain.py;&nbsp sydGrid.json&nbsp; #anyTwitter.json&nbsp #batch_size;&nbsp</pre> on your local computer
