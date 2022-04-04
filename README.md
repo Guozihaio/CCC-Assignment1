@@ -13,6 +13,15 @@ be run once to search the bigTwitter.json file on each of the following resource
 
 <b> • 1 node and 1 core; </b>
 
-• 1 node and 8 cores;
+<b> • 1 node and 8 cores; </b>
 
-• 2 nodes and 8 cores (with 4 cores per node).
+<b> • 2 nodes and 8 cores (with 4 cores per node). </b>
+
+# File Include
+
+• multi.py -- Constructor for classes
+
+• newmain.py -- main file for loading Json file and data processing
+
+• 1Node8Cores.slurm    1nodes8cores.slurm     2Node8Cores.slurm    
+
