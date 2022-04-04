@@ -10,6 +10,9 @@ tweets in a given cell that are made in different languages. The final result wi
 format, where the numbers are obviously representative.
 Application should allow a given number of nodes and cores to be utilized. Specifically, your application should
 be run once to search the bigTwitter.json file on each of the following resources:
+
 <b> • 1 node and 1 core; </b>
+
 • 1 node and 8 cores;
+
 • 2 nodes and 8 cores (with 4 cores per node).
