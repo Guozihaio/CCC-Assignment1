@@ -23,5 +23,5 @@ be run once to search the bigTwitter.json file on each of the following resource
 
 • newmain.py -- main file for loading Json file and data processing
 
-• 1Node8Cores.slurm&ensp    1nodes8cores.slurm&ensp      2Node8Cores.slurm &ensp  
+• 1Node8Cores.slurm&nbsp;    1nodes8cores.slurm&nbsp;      2Node8Cores.slurm &nbsp;  
 
