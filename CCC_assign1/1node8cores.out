@@ -1,0 +1,48 @@
+{'A1': {'en': 20, 'fr': 1}, 'A2': {'en': 21, 'ja': 1, 'und': 1}, 'A3': {'en': 9, 'th': 1, 'in': 1}, 'A4': {'en': 80, 'tr': 2, 'fr': 2, 'es': 1}, 'B1': {'en': 179, 'da': 1, 'tl': 2, 'ca': 1, 'ht': 1}, 'B2': {'en': 482, 'ja': 3, 'it': 4, 'de': 2, 'und': 4, 'zh': 5, 'tl': 2, 'hi': 1, 'fi': 1, 'pt': 1, 'et': 1, 'es': 1, 'in': 1}, 'B3': {'en': 610, 'de': 1, 'zh': 5, 'ja': 5, 'ro': 4, 'pt': 3, 'in': 5, 'es': 3, 'tl': 1, 'ca': 2, 'da': 1, 'und': 1, 'th': 1}, 'B4': {'en': 450, 'tr': 1, 'in': 1, 'ja': 8, 'pt': 3, 'es': 1, 'nl': 1, 'it': 2, 'und': 1, 'de': 1, 'fr': 1}, 'C1': {'en': 42, 'de': 1, 'ht': 1, 'und': 1, 'fr': 2}, 'C2': {'en': 84, 'in': 6, 'es': 2, 'ro': 1, 'und': 2, 'zh': 1, 'fr': 1}, 'C3': {'en': 4186, 'pt': 15, 'ro': 11, 'ja': 56, 'und': 42, 'es': 42, 'in': 32, 'it': 9, 'nl': 6, 'tl': 13, 'fr': 8, 'ca': 24, 'da': 5, 'de': 12, 'vi': 4, 'th': 8, 'et': 7, 'zh': 13, 'ko': 4, 'ht': 2, 'tr': 5, 'pl': 3, 'bn': 1, 'sv': 3, 'ar': 2, 'fa': 1, 'no': 1, 'cs': 2, 'fi': 1, 'cy': 3, 'hu': 1}, 'C4': {'en': 888, 'ca': 3, 'es': 5, 'ht': 17, 'in': 6, 'it': 5, 'ja': 6, 'cy': 1, 'ro': 6, 'pl': 1, 'fr': 3, 'cs': 1, 'und': 7, 'et': 5, 'pt': 2, 'nl': 2, 'ko': 1, 'sv': 1, 'tl': 4, 'da': 2, 'de': 2, 'no': 1}, 'D1': {'en': 90, 'ca': 1, 'cy': 2, 'und': 1, 'pt': 2, 'es': 1, 'lt': 1}, 'D2': {'en': 31, 'es': 2}, 'D3': {'en': 154, 'et': 1, 'tl': 1, 'ca': 1, 'es': 1, 'pt': 1, 'und': 2, 'th': 1}, 'D4': {'en': 3}}
+Cell    #Total Tweets    #Number of Languages Used    #Top 10 Languages & #Tweets
+A1     	 21          	 2                      	 [('English (default)', 20), ('French', 1)]
+A2     	 23          	 3                      	 [('English (default)', 21), ('Undetermined', 1), ('Japanese', 1)]
+A3     	 11          	 3                      	 [('English (default)', 9), ('Thai', 1), ('Indonesian', 1)]
+A4     	 85          	 4                      	 [('English (default)', 80), ('Turkish', 2), ('French', 2), ('Spanish', 1)]
+B1     	 184          	 5                      	 [('English (default)', 179), ('Tagalog', 2), ('Haitian', 1), ('Danish', 1), ('\tCatalan', 1)]
+B2     	 508          	 13                      	 [('English (default)', 482), ('Chinese', 5), ('Undetermined', 4), ('Italian', 4), ('Japanese', 3), ('Tagalog', 2), ('German', 2), ('Spanish', 1), ('Portuguese', 1), ('Indonesian', 1)]
+B3     	 642          	 13                      	 [('English (default)', 610), ('Japanese', 5), ('Indonesian', 5), ('Chinese', 5), ('Romanian', 4), ('Spanish', 3), ('Portuguese', 3), ('\tCatalan', 2), ('Undetermined', 1), ('Thai', 1)]
+B4     	 470          	 11                      	 [('English (default)', 450), ('Japanese', 8), ('Portuguese', 3), ('Italian', 2), ('Undetermined', 1), ('Turkish', 1), ('Spanish', 1), ('Indonesian', 1), ('German', 1), ('French', 1)]
+C1     	 47          	 5                      	 [('English (default)', 42), ('French', 2), ('Undetermined', 1), ('Haitian', 1), ('German', 1)]
+C2     	 97          	 7                      	 [('English (default)', 84), ('Indonesian', 6), ('Undetermined', 2), ('Spanish', 2), ('Romanian', 1), ('French', 1), ('Chinese', 1)]
+C3     	 4522          	 31                      	 [('English (default)', 4186), ('Japanese', 56), ('Undetermined', 42), ('Spanish', 42), ('Indonesian', 32), ('\tCatalan', 24), ('Portuguese', 15), ('Tagalog', 13), ('Chinese', 13), ('German', 12)]
+C4     	 969          	 22                      	 [('English (default)', 888), ('Haitian', 17), ('Undetermined', 7), ('Romanian', 6), ('Japanese', 6), ('Indonesian', 6), ('Spanish', 5), ('Italian', 5), ('Estonian', 5), ('Tagalog', 4)]
+D1     	 98          	 7                      	 [('English (default)', 90), ('Welsh', 2), ('Portuguese', 2), ('Undetermined', 1), ('Spanish', 1), ('Lithuanian', 1), ('\tCatalan', 1)]
+D2     	 33          	 2                      	 [('English (default)', 31), ('Spanish', 2)]
+D3     	 162          	 8                      	 [('English (default)', 154), ('Undetermined', 2), ('Thai', 1), ('Tagalog', 1), ('Spanish', 1), ('Portuguese', 1), ('Estonian', 1), ('\tCatalan', 1)]
+D4     	 3          	 1                      	 [('English (default)', 3)]
+Job ID           : 34541486
+Cluster          : spartan
+User/Project     : zihaog1/comp90024
+Nodes            : 1
+Wall-clock time  : 00:01:47 / 00:20:00
+
+Displaying overall resources usage from 2022-03-30 22:38:16 to 2022-03-30 22:40:03:
+
+NODE            CPU#        TOT%   ( USR   / SYS   / WIO   / IDLE  ) 
+
+spartan-bm090 : 
+                CPU# 1    : 86.0   (  82.4 /   3.6 /   0.0 /  14.0 ) 
+                CPU# 2    : 86.3   (  81.8 /   4.5 /   0.0 /  13.7 ) 
+                CPU# 3    : 87.7   (  83.8 /   3.9 /   0.0 /  12.3 ) 
+                CPU# 4    : 86.9   (  83.4 /   3.6 /   0.0 /  13.0 ) 
+                CPU# 5    : 86.9   (  83.2 /   3.7 /   0.0 /  13.1 ) 
+                CPU# 6    : 86.6   (  82.8 /   3.7 /   0.0 /  13.4 ) 
+                CPU# 7    : 86.7   (  83.4 /   3.3 /   0.0 /  13.3 ) 
+                CPU# 8    : 87.7   (  83.0 /   4.8 /   0.0 /  12.3 ) 
+
+
+Allocated CPUs            : 8    
+  CPUs with usage <25%    : 0    
+  CPUs with usage <50%    : 0    
+  CPUs with usage >50%    : 8    
+
+Memory used (RAM)         : 0.0%  [4MB of 32000MB]
+
+--------------------------------------------
+
